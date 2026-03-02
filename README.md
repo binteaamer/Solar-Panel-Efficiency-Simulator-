@@ -6,8 +6,7 @@
   <i>Pure digital logic simulation of solar panel efficiency without microcontrollers!</i>
 </p>
 
-<img width="497" height="297" alt="image" src="https://github.com/user-attachments/assets/630584df-ebfc-47e7-89d3-cbe8951b8299" />
-
+<img width="487" height="316" alt="Screenshot 2026-03-02 122937" src="https://github.com/user-attachments/assets/61a5864e-29cc-447c-a6ec-f27e49061085" />
 
 ## 📌 Project Overview
 
