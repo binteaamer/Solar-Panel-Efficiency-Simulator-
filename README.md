@@ -132,5 +132,5 @@ What makes this special? We built everything using counters, multiplexers, PROMs
   <i>Built with logic gates, PROMs, and 2 AM debugging sessions 🌙</i>
   <br>
   <i>No microcontrollers were harmed in the making of this project! ⚡</i>
-</p>![Uploading Screenshot 2026-03-02 114709.png…]()
+
 
