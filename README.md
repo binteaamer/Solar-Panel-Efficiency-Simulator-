@@ -1,12 +1,13 @@
 # 🔋 Solar Panel Efficiency Simulator ☀️
 
-<p align="center">
-  <img src="./assets/SolarPanelEfficiencySimulator.png" width="700" alt="Solar Panel Efficiency Simulator Circuit">
-</p>
+
 
 <p align="center">
   <i>Pure digital logic simulation of solar panel efficiency without microcontrollers!</i>
 </p>
+
+<img width="497" height="297" alt="image" src="https://github.com/user-attachments/assets/630584df-ebfc-47e7-89d3-cbe8951b8299" />
+
 
 ## 📌 Project Overview
 
@@ -150,4 +151,5 @@ Check out other semester projects:
   <i>Built with logic gates, PROMs, and 2 AM debugging sessions 🌙</i>
   <br>
   <i>No microcontrollers were harmed in the making of this project! ⚡</i>
-</p>
+</p>![Uploading Screenshot 2026-03-02 114709.png…]()
+
