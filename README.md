@@ -5,7 +5,6 @@
 <p align="center">
   <i>Pure digital logic simulation of solar panel efficiency without microcontrollers!</i>
 </p>
-<img width="1838" height="1144" alt="Screenshot 2026-03-02 123024-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/4a6585f5-95aa-4574-bcb0-a6de21e92cd0" />
 
 ## 📌 Project Overview
 
@@ -127,13 +126,8 @@ What makes this special? We built everything using counters, multiplexers, PROMs
 
 ## 🖼️ Circuit Image
 
-<p align="center">
-  <img src="./assets/SolarPanelEfficiencySimulator.png" width="800" alt="Complete Circuit Design">
-  <br>
-  <i>Complete circuit design in LogicWorks 5</i>
-</p>
+<img width="1838" height="1144" alt="Screenshot 2026-03-02 123024-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/4a6585f5-95aa-4574-bcb0-a6de21e92cd0" />
 
----
 
 ## 🔗 Related Projects
 
