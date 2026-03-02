@@ -122,22 +122,11 @@ What makes this special? We built everything using counters, multiplexers, PROMs
 </div>
 
 ---
----
 
 ## 🖼️ Circuit Image
 
 <img width="1838" height="1144" alt="Screenshot 2026-03-02 123024-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/4a6585f5-95aa-4574-bcb0-a6de21e92cd0" />
 
-
-## 🔗 Related Projects
-
-Check out other semester projects:
-- 🎮 [Coin Collector Game](./CoinCollector.md) - 1st Semester | Programming Fundamentals
-- 🦥 [Slots for Sloths](./SlotsForSloths.md) - 2nd Semester | OOP
-- 🔢 [NumeraX](./NumeraX.md) - 3rd Semester | COAL
-- 🏃 [Maze Runner](./MazeRunner.md) - 3rd Semester | Data Structures
-
----
 
 <p align="center">
   <i>Built with logic gates, PROMs, and 2 AM debugging sessions 🌙</i>
