@@ -124,16 +124,6 @@ What makes this special? We built everything using counters, multiplexers, PROMs
 </div>
 
 ---
-
-## 📖 Course Context
-
-| | |
-|---|---|
-| **Course** | Digital Logic Design (DLD) |
-| **Semester** | 2nd Semester, Spring 2025 |
-| **University** | FAST NUCES, Karachi Campus |
-| **Team** | Built with great friends! 👥 |
-
 ---
 
 ## 🖼️ Circuit Image
